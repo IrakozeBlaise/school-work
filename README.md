@@ -1,1 +1,1 @@
-school prject
+school project
