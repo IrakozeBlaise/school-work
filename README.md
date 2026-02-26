@@ -1,5 +1,6 @@
-school project
-vistula university
-purity high school
-southern college
-hamza international school
+School Project
+Vistula University
+Purity High School
+Southern College
+Hamza International School
+Siteki Nazereni High School
